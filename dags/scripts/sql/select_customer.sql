@@ -1,0 +1,2 @@
+SELECT *
+FROM report.purchase
